@@ -34,6 +34,6 @@ Data & Workflow: Tableau, Power BI, Git/GitHub, Docker, Jira, Agile/Scrum, Busin
 
 ## 📫 Let's Connect
 
-LinkedIn: linkedin.com/in/raihan-mohamed 
+LinkedIn: https://www.linkedin.com/in/raihan-mohamed/
 
 Email: raihan4969@gmail.com 
