@@ -4,7 +4,7 @@ I am currently pursuing a BBusSc in Information Systems at the University of Cap
 
 ## 🌱 My Philosophy & Growth
 
-I am on a continuous journey to improve my coding skills and better myself every single day. I'll be the first to admit I'm not perfect, but I thrive on learning, adapting, and tackling new challenges. I am always open to feedback, knowledge-sharing, and collaboration—if you want to build something cool together, let's talk!
+I am on a continuous journey to improve my coding skills and better myself every single day. I'll be the first to admit I'm not perfect, but I thrive on learning, adapting, and tackling new challenges. I am always open to feedback, knowledge-sharing, and collaboration. If you want to build something cool together, let's talk!
 
 ## 🔭 What I'm Navigating Right Now
 
@@ -35,7 +35,5 @@ Data & Workflow: Tableau, Power BI, Git/GitHub, Docker, Jira, Agile/Scrum, Busin
 ## 📫 Let's Connect
 
 LinkedIn: linkedin.com/in/raihan-mohamed 
-
-
 
 Email: raihan4969@gmail.com 
