@@ -8,7 +8,7 @@ I am on a continuous journey to improve my coding skills and better myself every
 
 ## 🔭 What I'm Navigating Right Now
 
-Navigating a complex project for a company utilising Vue.js, Node.js, and Python.
+Navigating a complex project for Derivco utilising Vue.js, Node.js, and Python.
 
 Working with Retrieval-Augmented Generation (RAG) pipelines and integrating Gemini and Ollama models into practical workflows.
 
